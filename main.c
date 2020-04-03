@@ -12,6 +12,6 @@
 void main(void) {
     inicializa();
     operacion();
-    //modificado a las 19;31 de 03/04/2020
+    //modificado a las 20:15 de 03/04/2020
     return;
 }
