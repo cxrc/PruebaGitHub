@@ -1,2 +1,2 @@
-# PruabaGit
-Prueba GitHub con MPLAB
+# PuebaGitHub
+Repositorio remoto en GitHub para Aplicacion PruebaGitHub
