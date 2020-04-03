@@ -1,0 +1,13 @@
+/build/
+/dist/default/production/memoryfile.xml
+/dist/default/production/PruebaGIT.X.production.elf
+/dist/default/production/PruebaGIT.X.production.lst
+/dist/default/production/PruebaGIT.X.production.hxl
+/dist/default/production/PruebaGIT.X.production.cmf
+/dist/default/production/PruebaGIT.X.production.map
+/dist/default/production/PruebaGIT.X.production.rlf
+/dist/default/production/PruebaGIT.X.production.sym
+/dist/default/production/PruebaGIT.X.production.mum
+/dist/default/production/PruebaGIT.X.production.sdb
+/dist/default/debug/
+/debug/
