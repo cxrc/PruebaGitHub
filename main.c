@@ -12,6 +12,6 @@
 void main(void) {
     inicializa();
     operacion();
-    // MODIFICADO
+    // SIN MODIFICAR
     return;
 }
