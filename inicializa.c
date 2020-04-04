@@ -4,6 +4,7 @@
 
 void inicializa(){
     // TODO Implementar codigo de la función inicializa()
+    //Implementada funcion Inicializa
     return;
 }
 
