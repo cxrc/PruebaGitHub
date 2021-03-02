@@ -1,7 +1,7 @@
 ---
 name: 'Problema: informe de error'
 about: Crea un informe que nos ayude a mejorar
-title: ''
+title: "[ERROR]"
 labels: ''
 assignees: cxrc
 
